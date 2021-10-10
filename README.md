@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 #### My tools and frameworks:
 <div>
- <image src="gitHub/javascript.png" />
+ <image src="./gitHub/javascript.png" />
 </div>
 
