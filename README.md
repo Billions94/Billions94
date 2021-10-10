@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Welcome to my world 🌍
+
+#### My tools and frameworks:
 <div>
-<h1>Welcome to my page 🌍<h1>
+ <image src="gitHub/javascript.png" />
 </div>
 
-<hr>
-<h1>Languages and frameworks I work with<h1>
