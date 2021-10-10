@@ -14,4 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>Hello<h1>
+<div>
+<h1>Welcome to my page 🌍<h1>
+</div>
+
+<hr>
+<h1>Languages and frameworks I work with<h1>
