@@ -4,7 +4,7 @@
 <img width="100%" height = "400px" src="https://knowledge4policy.ec.europa.eu/sites/default/files/ai_watch_illustration_fp_886_500.jpg" alt="cover" />
 </div>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> Welcome to my 🌍 </h1>
+<h1> Welcome to my 🌍 </h1>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=billions94.billions94)
@@ -15,7 +15,7 @@
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="39%" align="right" alt="Github" src="https://xena-technologies.com/themes/front/img/services/artificial/ai2.png" />
 
 
 - 🔭 I’m currently working on A blog app
