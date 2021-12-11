@@ -1,7 +1,7 @@
 
 
 <div align="center">
-<img width="100%" height = "400px" src="https://knowledge4policy.ec.europa.eu/sites/default/files/ai_watch_illustration_fp_886_500.jpg" alt="cover" />
+<img width="100%" height = "400px" src="https://archive.factordaily.com/wp-content/uploads/2018/01/Frrole_Lead.gif" alt="cover" />
 </div>
 
 <h1> Welcome to my 🌍 </h1>
