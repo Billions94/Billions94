@@ -15,7 +15,7 @@
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
-<img width="39%" align="right" alt="Github" src="https://xena-technologies.com/themes/front/img/services/artificial/ai2.png" />
+<img width="38%" align="right" alt="Github" src="https://i.pinimg.com/originals/bb/5f/d5/bb5fd5852577adb03e07eacee38ad7f4.jpg" />
 
 
 - 🔭 I’m currently working on A blog app
