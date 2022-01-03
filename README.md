@@ -10,7 +10,8 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=billions94.billions94)
 
 </p>
-<div size='20px'> Hi! My name is Ejiroghene Alexander Egbedi. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> Hi! My name is Ejiroghene Alexander Egbedi. 
+Well-qualified Full Stack Developer familiar with wide range of programming utilities and languages. Knowledgeable of backend and frontend development requirements. Handles any part of process with ease. Collaborative team player with excellent technical abilities offering 7 months of related experience. Organized and dependable candidate successful at managing multiple priorities with a positive attitude. Willingness to take on added responsibilities to meet team goals. To seek and maintain a full-time position that offers professional challenges utilizing interpersonal skills, excellent time management and problem-solving skills. :smile: 
 </div>
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
