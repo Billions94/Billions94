@@ -18,7 +18,7 @@ Logical and results-driven Software Developer dedicated to building and optimizi
 
 <img width="38%" align="right" alt="Github" src="https://i.pinimg.com/originals/bb/5f/d5/bb5fd5852577adb03e07eacee38ad7f4.jpg" />
 
-- 👨🏾‍💻 I’m a Fullstack Developer
+- 👨🏾‍💻 I’m a Software Developer
 
 - 🔭 I’m currently working on my Portfolio
 
